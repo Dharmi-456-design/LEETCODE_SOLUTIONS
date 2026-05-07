@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0136-single-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0136-single-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0067-add-binary/) | Easy |
+| [0136-single-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0136-single-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
