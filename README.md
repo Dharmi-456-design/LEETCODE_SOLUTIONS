@@ -13,4 +13,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0009-palindrome-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
