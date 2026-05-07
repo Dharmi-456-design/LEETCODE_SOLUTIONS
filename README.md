@@ -21,6 +21,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0058-length-of-last-word](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0058-length-of-last-word/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
