@@ -19,6 +19,7 @@
 | [0009-palindrome-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0069-sqrtx/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0069-sqrtx/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
