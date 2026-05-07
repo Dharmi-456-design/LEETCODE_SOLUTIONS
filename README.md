@@ -18,12 +18,14 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0067-add-binary/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0067-add-binary/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +52,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0035-search-insert-position/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
