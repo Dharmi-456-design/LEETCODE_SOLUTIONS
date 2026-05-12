@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@
 | [0088-merge-sorted-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0125-valid-palindrome/) | Easy |
 | [0148-sort-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0148-sort-list/) | Medium |
+| [0283-move-zeroes](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
