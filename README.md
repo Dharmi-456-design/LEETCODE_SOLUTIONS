@@ -34,6 +34,7 @@
 | [0258-add-digits](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [2235-add-two-integers](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2235-add-two-integers/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 ## String
 | Problem Name | Difficulty |
