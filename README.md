@@ -45,6 +45,7 @@
 | [0242-valid-anagram](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
