@@ -50,6 +50,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,10 +78,12 @@
 | [0283-move-zeroes](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
