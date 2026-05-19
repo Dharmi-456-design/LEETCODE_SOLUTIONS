@@ -48,6 +48,7 @@
 | [0242-valid-anagram](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0520-detect-capital](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0520-detect-capital/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
