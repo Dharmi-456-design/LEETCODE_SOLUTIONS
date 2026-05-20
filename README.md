@@ -33,6 +33,7 @@
 | [0070-climbing-stairs](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2235-add-two-integers](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2413-smallest-even-multiple/) | Easy |
