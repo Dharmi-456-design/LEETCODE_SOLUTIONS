@@ -52,6 +52,7 @@
 | [0771-jewels-and-stones](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+| [1678-goal-parser-interpretation](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1678-goal-parser-interpretation/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
