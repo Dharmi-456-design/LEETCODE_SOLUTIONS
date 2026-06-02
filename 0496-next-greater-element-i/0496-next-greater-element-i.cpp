@@ -23,7 +23,7 @@ public:
         ans.push_back(greater);
 
        }
-           return ans; 
+           return ans;
         
     }
 };
