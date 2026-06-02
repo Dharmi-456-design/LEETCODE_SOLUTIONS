@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -24,6 +25,7 @@
 | [0169-majority-element](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0771-jewels-and-stones/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -66,6 +68,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0901-online-stock-span/) | Medium |
@@ -195,6 +198,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
