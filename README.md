@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0136-single-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0136-single-number/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
@@ -35,6 +36,7 @@
 | [0067-add-binary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0258-add-digits](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -70,6 +72,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0394-decode-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
