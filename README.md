@@ -14,6 +14,7 @@
 | [0136-single-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0169-majority-element/) | Easy |
+| [0228-summary-ranges](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
