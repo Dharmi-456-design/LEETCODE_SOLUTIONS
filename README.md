@@ -67,6 +67,7 @@
 | [0520-detect-capital](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0520-detect-capital/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0771-jewels-and-stones/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -83,6 +84,7 @@
 | [0739-daily-temperatures](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0901-online-stock-span/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
