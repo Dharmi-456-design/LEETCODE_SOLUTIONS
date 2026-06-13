@@ -22,6 +22,7 @@
 | [0739-daily-temperatures](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
 | [1002-find-common-characters](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1002-find-common-characters/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2942-find-words-containing-character/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3668-restore-finishing-order/) | Easy |
 ## Hash Table
@@ -37,6 +38,7 @@
 | [0771-jewels-and-stones](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0771-jewels-and-stones/) | Easy |
 | [1002-find-common-characters](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1002-find-common-characters/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3668-restore-finishing-order/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3945-digit-frequency-score/) | Easy |
 ## Math
