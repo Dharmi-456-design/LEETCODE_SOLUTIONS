@@ -36,6 +36,7 @@
 | [0771-jewels-and-stones](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0771-jewels-and-stones/) | Easy |
 | [1002-find-common-characters](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1002-find-common-characters/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3668-restore-finishing-order/) | Easy |
+| [3945-digit-frequency-score](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3945-digit-frequency-score/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@
 | [2235-add-two-integers](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
+| [3945-digit-frequency-score](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
