@@ -88,6 +88,7 @@
 | [1816-truncate-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1816-truncate-sentence/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2942-find-words-containing-character/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@
 | [0067-add-binary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0258-add-digits/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
