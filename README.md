@@ -141,6 +141,7 @@
 | [0035-search-insert-position](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -251,4 +252,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
