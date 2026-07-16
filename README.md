@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0066-plus-one/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0136-single-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0136-single-number/) | Easy |
@@ -144,6 +145,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0069-sqrtx/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0704-binary-search/) | Easy |
