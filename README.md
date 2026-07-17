@@ -22,6 +22,7 @@
 | [0228-summary-ranges](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0704-binary-search](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
@@ -131,6 +132,7 @@
 | [0125-valid-palindrome](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0125-valid-palindrome/) | Easy |
 | [0148-sort-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0148-sort-list/) | Medium |
 | [0283-move-zeroes](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
@@ -151,6 +153,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -161,6 +164,7 @@
 | [0067-add-binary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
