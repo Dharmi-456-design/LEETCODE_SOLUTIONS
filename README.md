@@ -86,6 +86,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0520-detect-capital](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0520-detect-capital/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0771-jewels-and-stones/) | Easy |
+| [0796-rotate-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
 | [1002-find-common-characters](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -144,6 +145,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0796-rotate-string/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
