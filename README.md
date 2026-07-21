@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -269,6 +270,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
