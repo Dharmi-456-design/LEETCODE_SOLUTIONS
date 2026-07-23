@@ -34,6 +34,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1816-truncate-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1816-truncate-sentence/) | Easy |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2942-find-words-containing-character/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3668-restore-finishing-order/) | Easy |
