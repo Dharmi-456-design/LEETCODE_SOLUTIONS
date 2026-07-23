@@ -35,6 +35,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1816-truncate-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1816-truncate-sentence/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2942-find-words-containing-character/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3668-restore-finishing-order/) | Easy |
@@ -71,6 +72,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
