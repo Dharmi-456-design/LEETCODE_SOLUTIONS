@@ -30,6 +30,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0896-monotonic-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0896-monotonic-array/) | Easy |
+| [0912-sort-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0912-sort-an-array/) | Medium |
 | [1002-find-common-characters](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1002-find-common-characters/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -199,6 +200,7 @@
 | [0169-majority-element](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
+| [0912-sort-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0912-sort-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Tree
@@ -232,6 +234,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0169-majority-element/) | Easy |
+| [0912-sort-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0912-sort-an-array/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +243,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0148-sort-list/) | Medium |
+| [0912-sort-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0912-sort-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,9 +282,22 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0912-sort-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
