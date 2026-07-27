@@ -74,6 +74,7 @@
 | [0292-nim-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0292-nim-game/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1025-divisor-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1025-divisor-game/) | Easy |
+| [1227-airplane-seat-assignment-probability](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -199,6 +200,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1025-divisor-game/) | Easy |
+| [1227-airplane-seat-assignment-probability](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +320,7 @@
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1025-divisor-game/) | Easy |
+| [1227-airplane-seat-assignment-probability](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -325,4 +328,8 @@
 | [0292-nim-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1025-divisor-game/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
+## Probability and Statistics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 <!---LeetCode Topics End-->
