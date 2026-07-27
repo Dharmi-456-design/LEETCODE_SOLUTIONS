@@ -42,6 +42,7 @@
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2942-find-words-containing-character/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3668-restore-finishing-order/) | Easy |
+| [3828-final-element-after-subarray-deletions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@
 | [2413-smallest-even-multiple](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
+| [3828-final-element-after-subarray-deletions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -314,8 +316,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1025-divisor-game/) | Easy |
+| [3828-final-element-after-subarray-deletions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1025-divisor-game/) | Easy |
+| [3828-final-element-after-subarray-deletions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 <!---LeetCode Topics End-->
