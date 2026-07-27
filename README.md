@@ -71,6 +71,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0258-add-digits](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0292-nim-game/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1025-divisor-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1025-divisor-game/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -315,11 +316,13 @@
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1025-divisor-game/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0292-nim-game/) | Easy |
 | [1025-divisor-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1025-divisor-game/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 <!---LeetCode Topics End-->
