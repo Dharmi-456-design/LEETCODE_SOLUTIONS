@@ -38,6 +38,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1816-truncate-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1816-truncate-sentence/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
@@ -116,6 +117,7 @@
 | [1816-truncate-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1816-truncate-sentence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3110-score-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3612-process-string-with-special-operations-i/) | Medium |
