@@ -42,6 +42,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2942-find-words-containing-character/) | Easy |
+| [2974-minimum-number-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2974-minimum-number-game/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3668-restore-finishing-order/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 ## Hash Table
@@ -195,6 +196,7 @@
 | [0067-add-binary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0258-add-digits/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
+| [2974-minimum-number-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2974-minimum-number-game/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -220,6 +222,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2974-minimum-number-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2974-minimum-number-game/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +313,7 @@
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2974-minimum-number-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2974-minimum-number-game/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
