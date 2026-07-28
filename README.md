@@ -41,6 +41,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2974-minimum-number-game/) | Easy |
@@ -87,6 +88,7 @@
 | [2413-smallest-even-multiple](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
