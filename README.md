@@ -357,4 +357,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
