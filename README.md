@@ -51,6 +51,7 @@
 | [2974-minimum-number-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2974-minimum-number-game/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3668-restore-finishing-order/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -359,6 +360,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1995-count-special-quadruplets](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1995-count-special-quadruplets/) | Easy |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
