@@ -87,6 +87,7 @@
 | [1025-divisor-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1025-divisor-game/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -204,6 +205,7 @@
 | [0136-single-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
