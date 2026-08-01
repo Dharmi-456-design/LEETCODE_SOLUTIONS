@@ -375,5 +375,6 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0175-combine-two-tables/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1587-bank-account-summary-ii/) | Easy |
+| [1729-find-followers-count](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1729-find-followers-count/) | Easy |
 | [1965-employees-with-missing-information](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1965-employees-with-missing-information/) | Easy |
 <!---LeetCode Topics End-->
