@@ -374,6 +374,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0175-combine-two-tables/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1729-find-followers-count](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1729-find-followers-count/) | Easy |
