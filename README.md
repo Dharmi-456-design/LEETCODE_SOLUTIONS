@@ -150,6 +150,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0148-sort-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0148-sort-list/) | Medium |
@@ -164,6 +165,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0016-3sum-closest/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
