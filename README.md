@@ -386,6 +386,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1587-bank-account-summary-ii/) | Easy |
+| [1683-invalid-tweets](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1729-find-followers-count/) | Easy |
 | [1965-employees-with-missing-information](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1965-employees-with-missing-information/) | Easy |
 <!---LeetCode Topics End-->
