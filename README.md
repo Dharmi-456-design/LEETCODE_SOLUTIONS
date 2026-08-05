@@ -57,6 +57,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0242-valid-anagram/) | Easy |
@@ -157,6 +158,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0143-reorder-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Recursion
@@ -180,6 +182,7 @@
 | [0125-valid-palindrome](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
