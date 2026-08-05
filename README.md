@@ -392,6 +392,7 @@
 | [0627-swap-sex-of-employees](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1148-article-views-i/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1683-invalid-tweets](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1729-find-followers-count/) | Easy |
