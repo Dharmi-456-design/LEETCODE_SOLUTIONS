@@ -101,6 +101,7 @@
 | [2525-categorize-box-according-to-criteria](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
@@ -387,6 +388,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1995-count-special-quadruplets](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1995-count-special-quadruplets/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
