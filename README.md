@@ -50,6 +50,7 @@
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2974-minimum-number-game/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3668-restore-finishing-order/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
@@ -238,6 +239,7 @@
 | [0258-add-digits](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0258-add-digits/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
 | [2974-minimum-number-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2974-minimum-number-game/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -396,6 +398,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [3028-ant-on-the-boundary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3028-ant-on-the-boundary/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
