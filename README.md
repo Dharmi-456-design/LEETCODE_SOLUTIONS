@@ -32,6 +32,7 @@
 | [0739-daily-temperatures](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0877-stone-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0896-monotonic-array/) | Easy |
 | [0912-sort-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0912-sort-an-array/) | Medium |
 | [1002-find-common-characters](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1002-find-common-characters/) | Easy |
@@ -85,6 +86,7 @@
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0292-nim-game/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1025-divisor-game/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -236,6 +238,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0070-climbing-stairs/) | Easy |
+| [0877-stone-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1025-divisor-game/) | Easy |
 | [1227-airplane-seat-assignment-probability](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1227-airplane-seat-assignment-probability/) | Medium |
 ## Memoization
@@ -370,6 +373,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0292-nim-game/) | Easy |
+| [0877-stone-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1025-divisor-game/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 ## Probability and Statistics
@@ -401,4 +405,12 @@
 | [1729-find-followers-count](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1729-find-followers-count/) | Easy |
 | [1965-employees-with-missing-information](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1965-employees-with-missing-information/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
