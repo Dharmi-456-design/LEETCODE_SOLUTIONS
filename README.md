@@ -109,6 +109,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0038-count-and-say](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0038-count-and-say/) | Medium |
 | [0058-length-of-last-word](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0125-valid-palindrome/) | Easy |
