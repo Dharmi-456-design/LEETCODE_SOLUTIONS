@@ -400,4 +400,5 @@
 | [1683-invalid-tweets](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1729-find-followers-count/) | Easy |
 | [1965-employees-with-missing-information](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1965-employees-with-missing-information/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
