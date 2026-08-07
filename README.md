@@ -163,6 +163,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0092-reverse-linked-list-ii](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
