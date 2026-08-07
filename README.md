@@ -86,6 +86,7 @@
 | [0258-add-digits](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0292-nim-game/) | Easy |
+| [0390-elimination-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0390-elimination-game/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1025-divisor-game/) | Easy |
@@ -176,6 +177,7 @@
 | [0143-reorder-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0390-elimination-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0390-elimination-game/) | Medium |
 | [0394-decode-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0394-decode-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
