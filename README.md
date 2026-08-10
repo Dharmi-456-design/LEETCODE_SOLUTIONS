@@ -121,6 +121,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0394-decode-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0394-decode-string/) | Medium |
 | [0434-number-of-segments-in-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0434-number-of-segments-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0520-detect-capital/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0796-rotate-string/) | Easy |
@@ -213,6 +214,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0796-rotate-string/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 ## Binary Search
@@ -432,4 +434,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0877-stone-game/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
