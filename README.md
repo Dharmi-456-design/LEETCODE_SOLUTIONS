@@ -176,6 +176,7 @@
 | [0206-reverse-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0707-design-linked-list/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -252,6 +253,7 @@
 | [0067-add-binary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0258-add-digits/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2974-minimum-number-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2974-minimum-number-game/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3612-process-string-with-special-operations-i/) | Medium |
