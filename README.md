@@ -51,6 +51,7 @@
 | [2942-find-words-containing-character](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2974-minimum-number-game/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3028-ant-on-the-boundary/) | Easy |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3668-restore-finishing-order/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
@@ -72,6 +73,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3668-restore-finishing-order/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3945-digit-frequency-score/) | Easy |
 ## Math
@@ -174,6 +176,7 @@
 | [0206-reverse-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0707-design-linked-list/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
