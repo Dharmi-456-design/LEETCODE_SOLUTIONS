@@ -33,6 +33,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0877-stone-game/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0881-boats-to-save-people/) | Medium |
 | [0896-monotonic-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0896-monotonic-array/) | Easy |
 | [0912-sort-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0912-sort-an-array/) | Medium |
 | [1002-find-common-characters](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1002-find-common-characters/) | Easy |
@@ -211,6 +212,7 @@
 | [0344-reverse-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0881-boats-to-save-people/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -279,6 +281,7 @@
 | [0242-valid-anagram](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0881-boats-to-save-people](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0912-sort-an-array/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -339,6 +342,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0881-boats-to-save-people/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -447,4 +451,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Timsort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
