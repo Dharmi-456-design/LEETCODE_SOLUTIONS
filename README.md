@@ -177,6 +177,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0707-design-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
