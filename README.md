@@ -45,6 +45,7 @@
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1816-truncate-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1816-truncate-sentence/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1995-count-special-quadruplets/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -74,6 +75,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1995-count-special-quadruplets/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3668-restore-finishing-order/) | Easy |
@@ -337,6 +339,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0169-majority-element/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
