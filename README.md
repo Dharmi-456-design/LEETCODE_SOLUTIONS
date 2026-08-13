@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0318-maximum-product-of-word-lengths](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -124,6 +125,7 @@
 | [0067-add-binary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0242-valid-anagram/) | Easy |
+| [0318-maximum-product-of-word-lengths](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0344-reverse-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0394-decode-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0394-decode-string/) | Medium |
@@ -254,6 +256,7 @@
 | [0136-single-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0318-maximum-product-of-word-lengths](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Simulation
