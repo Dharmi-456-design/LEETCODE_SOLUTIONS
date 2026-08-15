@@ -43,6 +43,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1816-truncate-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1816-truncate-sentence/) | Easy |
@@ -472,4 +473,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0881-boats-to-save-people/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
