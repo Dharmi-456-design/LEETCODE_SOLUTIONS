@@ -50,6 +50,7 @@
 | [1816-truncate-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1816-truncate-sentence/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
@@ -305,6 +306,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2974-minimum-number-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2974-minimum-number-game/) | Easy |
@@ -366,6 +368,7 @@
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0881-boats-to-save-people/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Design
@@ -395,6 +398,7 @@
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0912-sort-an-array/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
