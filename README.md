@@ -37,6 +37,7 @@
 | [0881-boats-to-save-people](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0881-boats-to-save-people/) | Medium |
 | [0896-monotonic-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0896-monotonic-array/) | Easy |
 | [0912-sort-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0912-sort-an-array/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1002-find-common-characters](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1002-find-common-characters/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -78,6 +79,7 @@
 | [0268-missing-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0268-missing-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0496-next-greater-element-i/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0771-jewels-and-stones/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1002-find-common-characters](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1002-find-common-characters/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -446,6 +448,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3028-ant-on-the-boundary/) | Easy |
 ## Database
