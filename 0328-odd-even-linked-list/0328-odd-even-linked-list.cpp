@@ -7,9 +7,9 @@ public:
 
         ListNode* odd = head;
         ListNode* even = head->next;
-        ListNode* evenHead = even;
+        ListNode* evenHead = even;//even head ka use 2 ka address save krne keh liye hai
 
-        while (even != nullptr && even->next != nullptr) {
+        while (even != nullptr && even->next != nullptr) { //check krta hai keh even ya even ka next null hai jo null nikla to koi changes nahi honge
 
             odd->next = even->next;
             odd = odd->next;
@@ -18,7 +18,7 @@ public:
             even = even->next;
         }
 
-        odd->next = evenHead;
+        odd->next = evenHead; // join for 2 node
 
         return head;
     }
