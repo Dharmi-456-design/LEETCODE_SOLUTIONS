@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0036-valid-sudoku/) | Medium |
 | [0066-plus-one](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -73,6 +74,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0036-valid-sudoku](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0036-valid-sudoku/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -494,5 +496,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0036-valid-sudoku/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
