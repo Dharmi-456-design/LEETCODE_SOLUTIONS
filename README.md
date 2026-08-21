@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0036-valid-sudoku/) | Medium |
+| [0054-spiral-matrix](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -280,6 +281,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0258-add-digits/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
@@ -500,5 +502,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0036-valid-sudoku/) | Medium |
+| [0054-spiral-matrix](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0054-spiral-matrix/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
