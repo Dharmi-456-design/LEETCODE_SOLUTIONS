@@ -64,6 +64,7 @@
 | [2974-minimum-number-game](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2974-minimum-number-game/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3731-find-missing-elements/) | Easy |
@@ -126,6 +127,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
