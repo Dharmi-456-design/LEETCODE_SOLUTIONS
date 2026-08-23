@@ -127,6 +127,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2525-categorize-box-according-to-criteria](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2525-categorize-box-according-to-criteria/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
