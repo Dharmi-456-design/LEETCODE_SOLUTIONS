@@ -96,6 +96,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
+| [2716-minimize-string-length](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2716-minimize-string-length/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -172,6 +173,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2716-minimize-string-length](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2716-minimize-string-length/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3110-score-of-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3110-score-of-a-string/) | Easy |
