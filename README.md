@@ -50,6 +50,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1598-crawler-log-folder](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1598-crawler-log-folder/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1816-truncate-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1816-truncate-sentence/) | Easy |
@@ -164,6 +165,7 @@
 | [1108-defanging-an-ip-address](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+| [1598-crawler-log-folder](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1598-crawler-log-folder/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1816-truncate-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1816-truncate-sentence/) | Easy |
@@ -190,6 +192,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1598-crawler-log-folder](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1598-crawler-log-folder/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
