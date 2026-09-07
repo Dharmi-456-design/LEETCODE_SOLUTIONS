@@ -11,6 +11,9 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
+
+   // solution-1
+
     //     int count = 0;
     //     ListNode* curr = head;
 
@@ -31,20 +34,41 @@ public:
 
     //     return curr;
 
-    ListNode* i = head;
-    int count = 0;
-    while(i != NULL){
-        count++;
-        i = i->next;
-    }
-    int mid = (count/2) + 1;
+    //solution-2
 
-    count = 1;
-    i = head;
-    while(count < mid){
-        i = i->next;
-        count++;
-    }
-    return i;
-    }
+    // ListNode* i = head;
+    // int count = 0;
+    // while(i != NULL){
+    //     count++;
+    //     i = i->next;
+    // }
+    // int mid = (count/2) + 1;
+
+    // count = 1;
+    // i = head;
+    // while(count < mid){
+    //     i = i->next;
+    //     count++;
+    // }
+    // return i;
+
+       //solution-2
+
+       if(head->next == NULL) {
+return head;
+       }
+
+ListNode* i = head;
+ListNode* j = head->next;
+
+while(j->next != NULL && j->next->next != NULL) {
+i = i->next;
+j = j->next->next;
+}
+
+return i->next;
+
+}
+
+
 };
