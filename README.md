@@ -154,6 +154,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0520-detect-capital/) | Easy |
+| [0709-to-lower-case](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
