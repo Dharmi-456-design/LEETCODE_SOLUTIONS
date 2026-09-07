@@ -208,6 +208,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0707-design-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0707-design-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
@@ -244,6 +245,7 @@
 | [0344-reverse-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0844-backspace-string-compare/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/0881-boats-to-save-people/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
