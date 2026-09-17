@@ -1,25 +1,58 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
+    
+    //       if(head == NULL || head->next == NULL) {
+    //      return head;
+    //        }
 
-        if (head == nullptr || head->next == nullptr)
-            return head;
+    //        ListNode* i = head;
+    //        ListNode* j = head->next;
+    //        ListNode* temp = j;
+    //         while(j != NULL && j->next != NULL) {
+    //        i->next = j->next;
+    //          i = i->next;
+    //          j->next = i->next;
+    //          j = j->next;
+    //          }
 
-        ListNode* odd = head;
-        ListNode* even = head->next;
-        ListNode* evenHead = even;//even head ka use 2 ka address save krne keh liye hai
+    //          i->next = temp;
+    //           if(j != NULL) {
+    //          j->next = NULL;
 
-        while (even != nullptr && even->next != nullptr) { //check krta hai keh even ya even ka next null hai jo null nikla to koi changes nahi honge
+    //           }
+    // return head;
 
-            odd->next = even->next;
-            odd = odd->next;
 
-            even->next = odd->next;
-            even = even->next;
+
+      if(head == NULL || head->next == NULL) {
+         return head;
+           }
+
+           ListNode* i = head;
+           ListNode* j = head->next;
+           ListNode* temp = j;
+            while(j != NULL && j->next != NULL) {
+                i->next = i->next->next;
+                j->next= j->next->next;
+                i=i->next;
+                j=j->next;
+            }
+
+         
+          i->next = temp;
+          return head;
+          
+
         }
-
-        odd->next = evenHead; // join for 2 node
-
-        return head;
-    }
 };
