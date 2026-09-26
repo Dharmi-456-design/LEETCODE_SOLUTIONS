@@ -496,6 +496,7 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1587-bank-account-summary-ii/) | Easy |
+| [1661-average-time-of-process-per-machine](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1729-find-followers-count/) | Easy |
 | [1965-employees-with-missing-information](https://github.com/Dharmi-456-design/LEETCODE_SOLUTIONS/tree/main/1965-employees-with-missing-information/) | Easy |
